@@ -20,7 +20,7 @@ This project uses machine learning techniques to predict the onset of Alzheimer'
 | Symptoms            | Confusion, Disorientation, Forgetfulness, ADL issues |
 
 - **Target Column:** `Diagnosis` (0 = No Alzheimer's, 1 = Alzheimer’s)
-## 🔍 Methods Used
+## Methods Used
 
 1. **Data Preprocessing**
    - Handling missing values (mean/mode)
@@ -46,7 +46,7 @@ This project uses machine learning techniques to predict the onset of Alzheimer'
    - Created a synthetic patient profile using top features
    - Model showed 90% confidence in classification
 
-## 🏆 Results
+## Results
 
 | Model               | Accuracy | Precision | Recall | F1-Score |
 |--------------------|----------|-----------|--------|----------|
