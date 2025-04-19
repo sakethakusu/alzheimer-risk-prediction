@@ -71,3 +71,5 @@ This project uses machine learning techniques to predict the onset of Alzheimer'
 - Jupyter Notebook
 - SMOTE for balancing
 - GridSearchCV for tuning
+
+## Youtube link:  https://youtu.be/w3NqzkMJKy0
