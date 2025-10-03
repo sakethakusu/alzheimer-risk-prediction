@@ -1,4 +1,4 @@
-# Alzheimer-risk-prediction-using-ML
+# Alzheimer-Risk-Prediction-Using-ML
 This project uses machine learning techniques to predict the onset of Alzheimer's Disease based on cognitive assessments, lifestyle habits, and medical history. Our approach focuses on early detection to enable better patient outcomes and informed decision-making.
 
 ##  Project Overview
